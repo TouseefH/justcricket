@@ -1,0 +1,212 @@
+body {
+    font-family: 'Montserrat';
+}
+P {
+    font-family: 'Montserrat';
+
+}
+h1 {
+    font-family: 'Montserrat-Black';
+    font-size: 3rem;
+    line-height: 1.5;
+   
+}
+h2 {
+    font-family: 'Montserrat-Bold';
+    font-size: 3rem;
+    line-height: 1.5;
+    color: black;
+    margin-top: 5%;
+    text-align: center;
+
+}
+h3 {
+    font-family: 'Montserrat-Bold';
+
+}
+
+
+/* Header Section */
+
+#header {
+    background-color: #645CBB;
+    
+}
+.header-image{
+    border-radius: 50%;
+}
+.fa-bars {
+    font-size:40px ;
+    color:#fff;
+}
+.active-home {
+    border-bottom: 2px solid #fff;
+
+}
+.navbar {
+    padding-top: 15px;
+    
+}
+.nav-item {
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.nav-link {
+    color:#fff;
+    font-size: 15px;
+    padding: 0 0 3px 0;
+    display: unset;
+    font-family: 'Montserrat-Light';
+}
+.nav-link:hover {
+    border-bottom: 2px solid #fff;
+}
+
+/* Title */
+
+.banner {
+    margin-top: 3%;
+    color: #fff;
+}
+.banner h1{
+    margin: 80px 0 50px;
+    font-weight: 600;
+    font-family: 'Ubuntu';
+    font-size: 50px;
+}
+
+/* Title Image */
+
+.banner img {
+    max-height: 500px;
+}
+
+
+/* Download Button */
+
+.download-button {
+    margin: 5% 3% 10% 0;
+    
+
+}
+ 
+/* Rules For Crikcet */
+
+
+#rules-of-cricket {
+    
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+    padding: 7% 15%;
+
+}
+.cricket-rules{
+    color: lightcoral;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+.icon {
+    color: #645CBB;
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+    size: 1000px;
+
+}
+.icon:hover {
+    color:#BFACE2;
+}
+
+/* Professional Cricketer */
+
+#testimonials {
+   
+    text-align: center;
+    background-color:#BFACE2;
+    color: #fff;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+ 
+.carousel-item {
+    padding: 8% 16%;
+
+}
+
+/* Press */
+
+#press {
+    background-color:#BFACE2 ;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+
+}
+
+/* Cricket Guide */
+
+#cricket-guide {
+margin-top: 70px;
+float: left;
+color:grey;
+padding: 3% 3% 6% 3%;
+
+
+
+}
+.cricketer-image {
+    width: 100%;
+    
+    border-radius: 100%;
+}
+
+.btn {
+    color: #fff;
+    background-color: #645CBB;
+    margin: 7% 3% 10% 0;
+    
+}
+.btn:hover {
+   background-color: #BFACE2;
+}
+.guider-heading {
+    font-family: 'Montserrat-Bold';
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: left;
+    color: lightcoral;
+    padding-bottom: 5%;
+
+}
+
+
+/* Footer Section */
+
+#footer {
+    padding-top: 30%;
+    padding-bottom: 5%;
+    text-align: center;
+   
+
+}
+
+.social-icon {
+    margin: 20px 10px;
+
+}
+
+
+
+
+
